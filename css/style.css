@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+     /*#BFEAF5;*/
+    border-style: none;
+    border-top: dotted;
+    width: 100%;
+    border-color: black;
+    border-width: 5px; 
+}
+.pro{
+    text-decoration: underline;
+}
+h1 {
+
+    margin: 50px auto 0 auto;
+    font-family: 'Caveat', cursive;
+    font-size: 5rem;
+}
+
+h2 {
+    font-family: 'Caveat', cursive;
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 1.5rem;
+
+}
+
+div {
+    
+}
+
+.top-container {
+    background-color: #A0C3D2;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #EAE0DA;
+}
+
+.bottom-container {
+    background-color: #EAE0DA;
+
+}
+.my-imgs{
+    width: 200px;
+    border-radius: 100%;
+    
+}
+.profile-pic{
+    width: 128px;
+    border-radius: 100%;
+    
+}
+
+.top-cloud {
+    position:absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    
+    left: 5%;
+    position: absolute;
+}
+.btn{
+    color:black;
+
+}
+.footer-link{
+    color: black;
+    margin: 10%;
+}
+
